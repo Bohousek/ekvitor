@@ -1,2 +1,2 @@
 # ekvitor
-program pro Arduino Mega v projektu Ekvitermní termoregulátor
+Ekvitermní termoregulátor pro domácí systém vytápění
